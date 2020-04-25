@@ -1,0 +1,33 @@
+C:\Users\tolga\source\repos\Project 2 - Calculator\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.deps.json
+C:\Users\tolga\source\repos\Project 2 - Calculator\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.runtimeconfig.json
+C:\Users\tolga\source\repos\Project 2 - Calculator\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.runtimeconfig.dev.json
+C:\Users\tolga\source\repos\Project 2 - Calculator\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.dll
+C:\Users\tolga\source\repos\Project 2 - Calculator\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.pdb
+C:\Users\tolga\source\repos\Project 2 - Calculator\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.csprojAssemblyReference.cache
+C:\Users\tolga\source\repos\Project 2 - Calculator\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tolga\source\repos\Project 2 - Calculator\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.AssemblyInfoInputs.cache
+C:\Users\tolga\source\repos\Project 2 - Calculator\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.AssemblyInfo.cs
+C:\Users\tolga\source\repos\Project 2 - Calculator\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.dll
+C:\Users\tolga\source\repos\Project 2 - Calculator\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.pdb
+C:\Users\tolga\Desktop\IT Projects 2020\Project 2 - Calculator - 2020\Project 2 - Calculator 2020\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.deps.json
+C:\Users\tolga\Desktop\IT Projects 2020\Project 2 - Calculator - 2020\Project 2 - Calculator 2020\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.runtimeconfig.json
+C:\Users\tolga\Desktop\IT Projects 2020\Project 2 - Calculator - 2020\Project 2 - Calculator 2020\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.runtimeconfig.dev.json
+C:\Users\tolga\Desktop\IT Projects 2020\Project 2 - Calculator - 2020\Project 2 - Calculator 2020\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.dll
+C:\Users\tolga\Desktop\IT Projects 2020\Project 2 - Calculator - 2020\Project 2 - Calculator 2020\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.pdb
+C:\Users\tolga\Desktop\IT Projects 2020\Project 2 - Calculator - 2020\Project 2 - Calculator 2020\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.csprojAssemblyReference.cache
+C:\Users\tolga\Desktop\IT Projects 2020\Project 2 - Calculator - 2020\Project 2 - Calculator 2020\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tolga\Desktop\IT Projects 2020\Project 2 - Calculator - 2020\Project 2 - Calculator 2020\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.AssemblyInfoInputs.cache
+C:\Users\tolga\Desktop\IT Projects 2020\Project 2 - Calculator - 2020\Project 2 - Calculator 2020\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.AssemblyInfo.cs
+C:\Users\tolga\Desktop\IT Projects 2020\Project 2 - Calculator - 2020\Project 2 - Calculator 2020\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.dll
+C:\Users\tolga\Desktop\IT Projects 2020\Project 2 - Calculator - 2020\Project 2 - Calculator 2020\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.pdb
+C:\Users\tolga\Desktop\Upskilled Assessment - 31.12.19\My Apps Cenk Cevik\Completed App 01, Cenk Cevik\Project 2 - Calculator 2020\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.deps.json
+C:\Users\tolga\Desktop\Upskilled Assessment - 31.12.19\My Apps Cenk Cevik\Completed App 01, Cenk Cevik\Project 2 - Calculator 2020\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.runtimeconfig.json
+C:\Users\tolga\Desktop\Upskilled Assessment - 31.12.19\My Apps Cenk Cevik\Completed App 01, Cenk Cevik\Project 2 - Calculator 2020\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.runtimeconfig.dev.json
+C:\Users\tolga\Desktop\Upskilled Assessment - 31.12.19\My Apps Cenk Cevik\Completed App 01, Cenk Cevik\Project 2 - Calculator 2020\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.dll
+C:\Users\tolga\Desktop\Upskilled Assessment - 31.12.19\My Apps Cenk Cevik\Completed App 01, Cenk Cevik\Project 2 - Calculator 2020\Project 2 - Calculator\bin\Debug\netcoreapp2.1\Project 2 - Calculator.pdb
+C:\Users\tolga\Desktop\Upskilled Assessment - 31.12.19\My Apps Cenk Cevik\Completed App 01, Cenk Cevik\Project 2 - Calculator 2020\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.csprojAssemblyReference.cache
+C:\Users\tolga\Desktop\Upskilled Assessment - 31.12.19\My Apps Cenk Cevik\Completed App 01, Cenk Cevik\Project 2 - Calculator 2020\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tolga\Desktop\Upskilled Assessment - 31.12.19\My Apps Cenk Cevik\Completed App 01, Cenk Cevik\Project 2 - Calculator 2020\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.AssemblyInfoInputs.cache
+C:\Users\tolga\Desktop\Upskilled Assessment - 31.12.19\My Apps Cenk Cevik\Completed App 01, Cenk Cevik\Project 2 - Calculator 2020\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.AssemblyInfo.cs
+C:\Users\tolga\Desktop\Upskilled Assessment - 31.12.19\My Apps Cenk Cevik\Completed App 01, Cenk Cevik\Project 2 - Calculator 2020\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.dll
+C:\Users\tolga\Desktop\Upskilled Assessment - 31.12.19\My Apps Cenk Cevik\Completed App 01, Cenk Cevik\Project 2 - Calculator 2020\Project 2 - Calculator\obj\Debug\netcoreapp2.1\Project 2 - Calculator.pdb
